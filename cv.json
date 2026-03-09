@@ -1,284 +1,174 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Abdullah Abu Sayeed",
+    "label": "Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "abdullahsayeed62@gmail.com",
+    "phone": "01718296712",
+    "url": "https://your-portfolio-link.com",
+    "summary": "Final-year Computer Science student with hands-on experience in software development, including web and mobile application development, machine learning, and backend engineering. Skilled in the MERN stack, Android development, and AI/ML techniques with a strong foundation in algorithms and scalable system design.",
     "theme": "default",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "address": "Nasirabad, Khulshi",
+      "postalCode": "4203",
+      "city": "Chittagong",
+      "countryCode": "BD",
+      "region": "Bangladesh"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "abdullah-sayeed-61a0822b1",
+        "url": "https://linkedin.com/in/abdullah-sayeed-61a0822b1"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "Disa44ay",
+        "url": "https://github.com/Disa44ay"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "NexGenix, IT Business Incubator, CUET",
+      "position": "Full Stack Developer Intern",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "location": "Chittagong, Bangladesh",
+      "url": "https://nexgenix.com",
+      "startDate": "2025-11-01",
+      "endDate": "2026-03-01",
+      "summary": "Developed full-stack solutions using React, Node.js, MongoDB, and REST APIs. Focused on backend development, secure authentication, and scalability.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Built a MERN web application for efficient user management and data processing.",
+        "Developed REST APIs and integrated secure JWT authentication for users.",
+        "Improved system scalability by optimizing the backend integration."
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Designed and implemented backend services and APIs.",
+        "Collaborated with the frontend team to ensure smooth UI integration.",
+        "Worked on research and development for backend optimization."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Successfully developed scalable solutions and enhanced security protocols."
       ],
       "skills": [
         "React",
-        "Tailwind",
-        "GitHub"
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JWT",
+        "REST APIs"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "Hult Prize, East Delta University",
+      "position": "Head of Hospitality and Management",
+      "location_type": "On site",
+      "location": "Chittagong, Bangladesh",
+      "url": "https://hultprize.org",
+      "startDate": "2025-11-01",
+      "endDate": "2026-02-01",
+      "summary": "Managed hospitality and logistics for events, ensuring smooth event operations and participant coordination.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Coordinated multiple successful events, enhancing overall operational efficiency.",
+        "Streamlined logistics and event scheduling, contributing to seamless event execution."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
+        "Event Management",
+        "Team Coordination",
+        "Logistics"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
+      "organization": "Computer Club, East Delta University",
       "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "url": "https://educu.edu.bd",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "summary": "Hosted programming contests and assisted in organizing various tech-related events.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Successfully organized and hosted multiple programming competitions."
       ]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "institution": "East Delta University",
+      "url": "https://educu.edu.bd",
+      "area": "Computer Science & Engineering",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
+      "startDate": "2022-09-01",
+      "endDate": "2026-06-01",
       "score": "3.7",
       "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures",
+        "CS201 - Machine Learning",
+        "CS301 - Advanced Databases"
       ]
+    },
+    {
+      "institution": "Govt. Hazi Mohammad Mohsin College",
+      "url": "https://ghmcollege.edu.bd",
+      "area": "Science",
+      "studyType": "Higher Secondary",
+      "startDate": "2018-09-01",
+      "endDate": "2020-06-01",
+      "score": "5.00"
     }
   ],
   "certificates": [
     {
       "name": "Full Stack Web Development",
-      "date": "2023-05-01",
+      "date": "2025-05-01",
       "issuer": "Online University",
       "url": "https://onlineuniversity.com/certificates/fullstack"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
+      "name": "C",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "Programming",
+        "System Programming"
       ]
     },
     {
-      "name": "HTML",
+      "name": "C++",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend"
+        "Object-Oriented Programming",
+        "System Design"
       ]
     },
     {
-      "name": "CSS",
+      "name": "Python",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
+        "Scripting",
+        "Automation",
+        "Data Science",
+        "Machine Learning"
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Java",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
+        "Object-Oriented Programming",
+        "Mobile Development (Android)"
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
+      "name": "SQL",
       "level": "Intermediate",
       "keywords": [
         "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "Data Management",
+        "Backend Development"
       ]
     },
     {
@@ -290,6 +180,124 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Express",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Framework",
+        "Backend",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "Backend",
+        "NoSQL"
+      ]
+    },
+    {
+      "name": "RESTful APIs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "API Design"
+      ]
+    },
+    {
+      "name": "JWT",
+      "level": "Intermediate",
+      "keywords": [
+        "Authentication",
+        "Security",
+        "Backend"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Markup Language"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Styling",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Android (Java)",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "Java",
+        "Android Studio"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "Real-time Database",
+        "Authentication"
+      ]
+    },
+    {
+      "name": "TensorFlow",
+      "level": "Intermediate",
+      "keywords": [
+        "Machine Learning",
+        "AI",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "Keras",
+      "level": "Intermediate",
+      "keywords": [
+        "Machine Learning",
+        "AI",
+        "Neural Networks"
+      ]
+    },
+    {
+      "name": "Scikit-learn",
+      "level": "Intermediate",
+      "keywords": [
+        "Machine Learning",
+        "Data Science",
+        "Algorithms"
+      ]
+    },
+    {
+      "name": "OpenCV",
+      "level": "Intermediate",
+      "keywords": [
+        "Computer Vision",
+        "Image Processing"
+      ]
     }
   ],
   "languages": [
@@ -298,67 +306,61 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "language": "Bengali",
+      "fluency": "Fluent"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Player Lagbe",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "MERN web application with JWT authentication, REST APIs, and scalable backend architecture.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Implemented secure authentication and session management using JWT.",
+        "Built RESTful APIs for user data management and scalability."
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://playerlagbe.com",
+      "github": "https://github.com/Disa44ay/player-lagbe"
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "Breast Cancer Prediction Model",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Machine learning model using KNN and K-Means clustering with evaluation metrics.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Developed a model to classify tumor types as Benign or Malignant.",
+        "Evaluated the model using accuracy, precision, recall, and F1-score metrics."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/Disa44ay/breast-cancer-prediction"
+    },
+    {
+      "name": "AgriShield - Hackathon Project",
+      "isActive": true,
+      "description": "Web platform for farmers providing real-time weather updates and crop tracking.",
+      "highlights": [
+        "Developed a bilingual platform with a responsive design for farmers.",
+        "Implemented a notification system using EmailJS."
+      ],
+      "url": "https://agrishield.com",
+      "github": "https://github.com/Disa44ay/agrishield"
+    },
+    {
+      "name": "E-Tutor Backend Development",
+      "isActive": true,
+      "description": "Backend for an e-tutor platform with JWT authentication, SSLCommerz payments, and Cloudinary file handling.",
+      "highlights": [
+        "Designed a secure and scalable architecture for backend services.",
+        "Integrated payment gateway for transactions and file handling via Cloudinary."
+      ],
+      "url": "https://etutor.com",
+      "github": "https://github.com/Disa44ay/etutor-backend"
+    }
+  ],
+  "competitiveProgramming": [
+    {
+      "platform": "Codeforces",
+      "rating": "800+",
+      "problemsSolved": "200+",
+      "summary": "Strong foundation in algorithms and problem-solving."
     }
   ]
 }
